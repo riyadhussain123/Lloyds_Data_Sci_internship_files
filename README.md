@@ -15,7 +15,15 @@ This repository contains the work completed for the job simulation involving cus
 - Performed comprehensive model evaluation and tuning by:
   - Optimising hyperparameters with **GridSearchCV**
   - Analysing feature importance to derive actionable business insights.
-
+### Results
+The final model achieved an F1 score of 0.862, indicating a strong ability to balance precision and recall in predicting customer churn.
+Key features impacting churn prediction were identified, providing actionable insights for customer retention strategies.
+### Future Work
+Explore additional modeling techniques (e.g., ensemble methods or neural networks) for potentially improved performance.
+Continuously update the model with new data to enhance accuracy and adapt to changing customer behaviors.
+Develop an interactive dashboard for real-time monitoring and decision-making based on churn predictions.
+## Acknowledgments
+Thank you to Lloyds Banking Group and Forage for the opportunity to participate in this job simulation and enhance my skills in data science and analytics.
 ## Project Structure
 
 ### EDA file
@@ -49,3 +57,5 @@ Modelling
 - Fit & Compare Models (logistic regression, decision trees, random forest, gradient boosting, neural network
 Model Metrics (accuracy, precision, ROC-AUC, recall, f1-score
 Hyperparameter Testing (f1 score of random forest increased from 0.24 to 0.862 using GridSearchCV)
+
+## Highlighted Visulaisations 
