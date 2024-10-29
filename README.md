@@ -11,9 +11,40 @@ This repository contains the work completed for the job simulation involving cus
   - Handling missing values
   - Encoding categorical variables
   - Feature scaling
-- Utilized Python libraries such as **pandas**, **scikit-learn**, and **matplotlib** for data manipulation, model building, and visualization.
+- Utilised Python libraries such as **pandas**, **scikit-learn**, and **matplotlib** for data manipulation, model building, and visualisation.
 - Performed comprehensive model evaluation and tuning by:
   - Optimizing hyperparameters with **GridSearchCV**
   - Analyzing feature importance to derive actionable business insights.
 
 ## Project Structure
+
+### EDA file
+Data Inspection
+  - Variable Analysis
+Exploratory Data Analysis
+  Datasets:
+  - Customer Demogrpahics
+  - Transactional History
+  - Customer Service
+  - Online Activity
+Data Cleaning
+- Check Null Values
+- Handle Missing Values
+- Merge Datasets
+- Further EDA on new columns
+- Statiscal Analysis
+
+### Modelling
+Final Inspection on cleaned data
+- Statistical Analysis on features to determine  standardisation, normalisation methods for feature engineering
+Feature Engineering
+- Encoding using Onehot, Ordinal Encoder
+- Scaling using StandardScaler
+- Transformation (log)
+- Preproccessing & building pipelines
+Modelling
+- Split into Train & Test
+- SMOTE on imbalanced data
+- Fit & Compare Models (logistic regression, decision trees, random forest, gradient boosting, neural network
+Model Metrics (accuracy, precision, ROC-AUC, recall, f1-score
+Hyperparameter Testing (f1 score of random forest increased from 0.24 to 0.862 using GridSearchCV)
