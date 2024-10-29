@@ -60,3 +60,9 @@ Hyperparameter Testing (f1 score of random forest increased from 0.24 to 0.862 u
 
 ## Highlighted Visulaisations 
 ![Model_Comparison](model_comparison.png)
+![ROC Analysis](roc_curve.png)
+![Q-Q Test](qqplot_amountspent.png)
+![Sample Code](function_qq.png)
+![EDA Customer Service](service.png)
+![Product Category Pie Chart](product_cat.png)
+![Feature Importance](feature_importance.png)
