@@ -32,11 +32,12 @@ Data Cleaning
 - Handle Missing Values
 - Merge Datasets
 - Further EDA on new columns
-- Statiscal Analysis
+- Statiscal Analysis testing 
 
 ### Modelling
 Final Inspection on cleaned data
 - Statistical Analysis on features to determine  standardisation, normalisation methods for feature engineering
+- Q-Q test to analyse normality of features
 Feature Engineering
 - Encoding using Onehot, Ordinal Encoder
 - Scaling using StandardScaler
