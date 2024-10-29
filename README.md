@@ -59,3 +59,4 @@ Model Metrics (accuracy, precision, ROC-AUC, recall, f1-score
 Hyperparameter Testing (f1 score of random forest increased from 0.24 to 0.862 using GridSearchCV)
 
 ## Highlighted Visulaisations 
+![Model_Comparison](model_comparison.png)
