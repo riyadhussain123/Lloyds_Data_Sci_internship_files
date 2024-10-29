@@ -13,8 +13,8 @@ This repository contains the work completed for the job simulation involving cus
   - Feature scaling
 - Utilised Python libraries such as **pandas**, **scikit-learn**, and **matplotlib** for data manipulation, model building, and visualisation.
 - Performed comprehensive model evaluation and tuning by:
-  - Optimizing hyperparameters with **GridSearchCV**
-  - Analyzing feature importance to derive actionable business insights.
+  - Optimising hyperparameters with **GridSearchCV**
+  - Analysing feature importance to derive actionable business insights.
 
 ## Project Structure
 
